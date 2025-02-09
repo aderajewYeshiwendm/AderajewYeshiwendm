@@ -22,12 +22,12 @@
 
 ## 🔥 Streak Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aderajew&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aderajewYeshiwendm&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
 ## 🔥 Most Used Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aderajew&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aderajewYeshiwendm&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ## 📫 Connect With Me  
