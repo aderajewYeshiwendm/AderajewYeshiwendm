@@ -17,7 +17,7 @@
 
 ## 🔥 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aderajew&show_icons=true&theme=radical" alt="Aderajew's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aderajewYeshiwendm&show_icons=true&theme=radical" alt="Aderajew's GitHub stats" />
 </p>
 
 ## 🔥 Streak Stats  
