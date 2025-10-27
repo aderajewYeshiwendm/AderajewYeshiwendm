@@ -15,11 +15,6 @@
 🔹 **Database:** MongoDB, PostgreSQL, Supabase  
 🔹 **AI/ML:** OpenAI API, Meta API, Machine Learning  
 
-## 🔥 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aderajewYeshiwendm&show_icons=true&theme=radical" alt="Aderajew's GitHub stats" />
-</p>
-
 ## 🔥 Streak Stats  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aderajewYeshiwendm&theme=radical" alt="GitHub Streak Stats" />
